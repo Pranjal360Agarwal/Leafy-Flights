@@ -1,3 +1,3 @@
 # Leafy-Flights Project
 
-Flappy bird game Project games.
+Flappy bird game Project game.
