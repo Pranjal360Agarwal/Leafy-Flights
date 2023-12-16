@@ -26,3 +26,27 @@ The project utilizes HTML to structure the game layout, CSS for styling elements
 ## Project Purpose
 
 This project aims to showcase the implementation of a classic game using basic web technologies. It serves as an educational resource for beginners learning web development, offering insights into game development principles, event handling, and basic animation techniques using HTML, CSS, and JavaScript.
+
+
+## Installation⚡
+
+0. Star ⭐
+
+1. Fork
+
+2. Clone the forked repository.
+
+```css
+git clone https://github.com/<your-github-username>/Leafy-Flights
+```
+
+3. Navigate to the project directory.
+
+```py
+cd Leafy-Flights
+```
+
+4. Open index.html in your web browser to launch the game.
+
+
+# Made with ❤ by [Pranjal Agarwal](https://github.com/Pranjal360Agarwal).
