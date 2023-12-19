@@ -1,4 +1,4 @@
-# Leafy-Flights Project
+# Leafy-Flights Projects
 
 ## Description
 
